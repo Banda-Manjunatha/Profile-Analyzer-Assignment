@@ -4,7 +4,7 @@ A sleek, modern web app to analyze any GitHub user's public profile activity. Ju
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png) <!-- Replace with your actual screenshot file -->
+![App Screenshot](./src/Screenshot.png) <!-- Replace with your actual screenshot file -->
 
 ---
 
@@ -51,3 +51,39 @@ A sleek, modern web app to analyze any GitHub user's public profile activity. Ju
  ┣ 📜 index.css          # Tailwind CSS styles and custom overrides
  ┗ 📜 main.tsx           # Entry point for the React app
 ```
+
+## 🏗️ Installation & Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+
+   ```sh
+   git clone https://github.com/Banda-Manjunatha/Profile-Analyzer-Assignment.git
+   cd profile-analyzer
+   ```
+
+2. **Install dependencies**
+
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server**
+
+   ```sh
+   npm run dev
+   ```
+
+4. **Open in browser**
+   Navigate to `http://localhost:5173`.
+
+## 🚀 Deployment
+
+This project is deployed on **[Netlify](https://manju-git-profile-analyzer.netlify.app/)**.
+
+## 👤 Author
+
+- **Manjunatha Banda**
+- [GitHub](https://github.com/Banda-Manjunatha)
+- [LinkedIn](https://www.linkedin.com/in/manjunatha-banda)
